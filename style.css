@@ -1,40 +1,23 @@
-ul{
-list-style-type:none;
-border:1px solid #e7e7e7;
-background-color: #ff33ff;
-
-overflow:hidden;
-}
-li{
-float:left;
-
+Heading{
+color:blue;
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+text-align: center;
 
 
 }
-.nav-right{
-float:right;
+#specialh{
+ text-align: left;
+font-size: 30px;
+color:green;
 }
-li a{
-display:block;
-color:#666;
-pedding:10px;
+body{
+ background-repeat: repeat-y;
+background-position: center ;
 }
-a{
-    text-decoration:none;
-    columns: #008cba;
-}
-li a:hover{
 
-    background-color: #dddddd;
-}
-li a.active{
-background-color:  rgb(76,175,89);
-
-}
-div{
-border:3px dotted;
-border-radius: 15px;
-box-shadow: -15px -10px 0px dimgray;
-background-image: -moz-linear-gradient(white,blue);
+body{
+ background-repeat: repeat-y;
+background-position: center;
 
 }
